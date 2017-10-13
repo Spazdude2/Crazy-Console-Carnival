@@ -55,7 +55,7 @@ namespace TextCarnivalV2.Source.CarnivalGames.AllCarnivalGames
 
 
                 List<String> Jokes = new List<string>()
-                { "Why couldn't the blond add 10 and 7 on a calculator?\n\nBecause she couldn't find the 10 key",
+                { "Why couldn't the blonde add 10 and 7 on a calculator?\n\nBecause she couldn't find the 10 key",
                   "What did one penny say to another penny?\n\nLet's get together and make cents!",
                   "what's the ugliest thing in the world?\n\nlook in a mirror and you'll find out.",
                   "What do you call someone with a mental deficiency?\n\nRetarded!",
